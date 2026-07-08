@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a beginner in software development, passionate
 
 ## 👩‍💻 About Me  
 
-- 🌱 Currently mastering **Frontend Development**, **C++**, and **Data Structures & Algorithms**.  
-- 💡 Familiar with **HTML**, **CSS**, **JavaScript**, **React.js**, **Tailwind CSS**, **C**, and **C++**.  
+- 🌱 Currently mastering **MERN Stack Development**, and **Data Structures & Algorithms**.  
+- 💡 Familiar with **HTML**, **CSS**, **JavaScript**, **React.js**, **Tailwind CSS**, **Express.js**, and **Node.js**.  
 - 🎯 Aspiring to become a full-fledged **Software Developer**.  
 - 🌐 Exploring the world of web development and contributing to open-source projects.  
 
@@ -31,10 +31,10 @@ Welcome to my GitHub profile! I'm a beginner in software development, passionate
 </div>  
 
 ### **Programming Languages**  
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</div>  
+</div>   -->
 
 ---
 
